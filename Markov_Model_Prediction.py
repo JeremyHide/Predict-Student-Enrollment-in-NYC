@@ -6,7 +6,7 @@ Created on 2016/12/03
 Version: 1.0
 @author: Sheng Liu
 ShengLiu Copyright 2016-2017
-Please report any bugs to shengliu@nyu.edu
+Please report any bugs to shengliu [at] nyu [dot]edu
 """
 from sklearn import preprocessing
 import pandas as pd
